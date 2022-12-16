@@ -1,8 +1,8 @@
 # User Manual
 
 # Jesse Hinchcliffe
-_He/Him_
-_Senior Technical Product Manager_
+_He/Him_ | 
+_Senior Technical Product Manager_ | 
 _Chicago, IL_
 
 ## About Me
