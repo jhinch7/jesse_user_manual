@@ -1,5 +1,3 @@
-# User Manual
-
 # Jesse Hinchcliffe
 _He/Him_ | 
 _Senior Technical Product Manager_ | 
